@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+h1 {
+    background-color: orange;
+    padding: 2rem;  
+    }
+
+    
+p{
+    text-align: center;
+    padding: 2rem;
+    margin-left: 180px;
+    max-width: 95%;
+    width: 70%;
+    display: block;
+}
+    
+button{
+    border-radius: 1.5rem;
+    border-color: orange;
+    cursor: pointer;
+    background-color: orange;
+    padding: 1rem;
+    font-size: large;
+}
+    
+    
