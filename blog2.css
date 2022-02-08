@@ -1,0 +1,42 @@
+img{
+    width: 500px;
+    height: 250px;
+    margin-left: 400px;
+}
+
+h1{
+    background-color: blueviolet;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+section{
+    padding: 0.5rem;
+}
+
+h2{
+text-align: center;
+}
+
+p {
+    height: 40%;
+    width: 70%;
+    margin-left: 200px;
+}
+
+ul{
+    height: 40%;
+    width: 70%;
+    margin-left: 200px;
+}
+
+button{
+    margin-left: 550px;
+    border-radius: 1.5rem;
+    border-color: blueviolet;
+    cursor: pointer;
+    background-color: blueviolet;
+    padding: 1rem;
+    font-size: large;
+}
